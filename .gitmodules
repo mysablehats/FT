@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/face_recognition"]
+	path = catkin_ws/src/face_recognition
+	url = git@github.com:mysablehats/face_recognition.git
