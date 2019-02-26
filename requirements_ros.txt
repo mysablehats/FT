@@ -1,0 +1,11 @@
+rosdep
+rosinstall_generator
+wstool
+rosinstall
+pyyaml
+empy
+defusedxml
+netifaces
+rospkg
+catkin_pkg
+boost
